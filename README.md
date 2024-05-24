@@ -9,7 +9,7 @@ I'm a passionate MERN stack developer with a keen interest in big data and creat
 - 🌱 I’m currently learning more about big data technologies and advanced frontend animations.
 - 👯 I’m looking to collaborate on exciting projects involving big data or dynamic, animated frontends.
 - 💬 Ask me about anything related to MERN stack, big data, or frontend development.
-- 📫 How to reach me: abdulmajeed5two@gmail.com
+- 📫 How to reach me: abdulmajeed.5two@gmail.com
 
 ## 🛠️ My Tech Stack
 ### Frontend
