@@ -3,12 +3,12 @@
 ![Profile views](https://gpvc.arturio.dev/Abdulmajeed5two)
 
 ## 🚀 About Me
-I'm a passionate MERN stack developer with a keen interest in big data and creating engaging animations for the front End. I love turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate developer with a keen interest in big data, Python/Django, and creating engaging animations for the front end. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 - 🔭 I’m currently working on a Personal Portfolio in ReactJs with Animations!
-- 🌱 I’m currently learning more about big data technologies and advanced frontend animations.
+- 🌱 I’m currently learning more about big data technologies and advancing my skills in Python/Django.
 - 👯 I’m looking to collaborate on exciting projects involving big data or dynamic, animated frontends.
-- 💬 Ask me about anything related to MERN stack, big data, or frontend development.
+- 💬 Ask me about anything related to the MERN stack, big data, Python/Django, or frontend development.
 - 📫 How to reach me: abdulmajeed.5two@gmail.com
 
 ## 🛠️ My Tech Stack
@@ -18,8 +18,8 @@ I'm a passionate MERN stack developer with a keen interest in big data and creat
 - 🎨 **Animations**: GSAP, Framer Motion, CSS Animations
 
 ### Backend
-- 🚀 **Languages**: Node.js
-- 🔧 **Frameworks**: Express.js
+- 🚀 **Languages**: Node.js, Python
+- 🔧 **Frameworks**: Express.js, Django
 - 🛢️ **Databases**: MongoDB, MySQL
 
 ### Big Data
