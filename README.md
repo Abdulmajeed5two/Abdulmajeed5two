@@ -16,24 +16,21 @@ Welcome to my repository! Here, I explore and expand the boundaries of software 
 - **Languages**:  
   - JavaScript  
   - Python  
-  - Rust (exploring advanced use cases)  
+
 
 - **Frameworks & Libraries**:  
-  - ReactJS, React Native  
-  - Hadoop (data pipelines)  
-  - Three.js, GSAP  
+  - ReactJS, React Native
+  - pytorch
+  - tensoflow 
 
 - **Focus Areas**:  
   - Mobile & Web Development  
   - Big Data Systems  
-  - Server-Side Design  
-  - Software Quality Assurance (SQA)  
 
 ### Tools & Specializations  
 - **State Management**: Redux, Context API  
 - **Mobile-First Development**: Modular, offline-ready React Native apps with API and local storage integration.  
 - **AI/ML**: Exploring machine learning workflows to analyze human behavior patterns using generated and real-world datasets.  
-- **Big Data**: Designing and testing pipelines to extract meaningful insights and optimize systems.  
 
 ---
 
@@ -45,11 +42,7 @@ Welcome to my repository! Here, I explore and expand the boundaries of software 
 - **React Native Development**:  
   - Building feature-rich mobile apps with real-time and offline functionality.  
 
-- **Big Data & Rust**:  
-  - Experimenting with distributed systems using Rust and processing pipelines via Hadoop.  
 
-- **Interactive Web Engineering**:  
-  - Developing 3D and animated experiences using Three.js and GSAP for enhanced web interactivity.  
 
 ---
 
