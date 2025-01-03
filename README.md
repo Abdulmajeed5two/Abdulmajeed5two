@@ -1,4 +1,4 @@
-# Abdul Majeed - Undefined Engineer  
+# Abdul Majeed 
 
 Welcome to my repository! Here, I explore and expand the boundaries of software engineering, tackling challenges across various domains, from mobile and web development to AI/ML and big data analytics. As an **Undefined Engineer**, I focus on creating efficient, scalable, and impactful solutions while continuously pushing the limits of technology.  
 
