@@ -6,7 +6,7 @@ Welcome to my repository! Here, I explore and expand the boundaries of software 
 
 - **LinkedIn**: [Abdul Majeed](https://www.linkedin.com/in/abdulmajeed5two/)  
 - **Twitter**: [@AbdulMajee5two](https://x.com/AbdulMajee5two)  
-- **Portfolio**: [abdulmajeed-portfolio.netlify.app](https://dev-abdulmajeed.netlify.app/)  
+- **Portfolio**: [https://dev-abdulmajeed.netlify.app/](https://dev-abdulmajeed.netlify.app/)  
 
 ---
 
